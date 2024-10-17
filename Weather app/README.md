@@ -28,6 +28,10 @@ Make sure to replace the API key in the JavaScript code with your own OpenWeathe
 
 This project is inspired by a tutorial from the YouTube channel [GreatStack](https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=2067s).
 
+## Live-Demo
+
+https://surajkumaar.github.io/Projects-Portfolio/Weather%20app/
+
 ## License
 
 This project is open-source and available under the MIT License.
